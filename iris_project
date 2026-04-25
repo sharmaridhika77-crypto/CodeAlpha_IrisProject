@@ -10,6 +10,12 @@ This project predicts iris flower species using Machine Learning.
 - Matplotlib
 - Seaborn
 
+## Features
+- Data visualization using graphs
+- Machine learning model (Random Forest)
+- Accuracy evaluation
+- Confusion matrix analysis
+
 ## Result
 Achieved ~95% accuracy.
 
