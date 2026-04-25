@@ -1,0 +1,17 @@
+# Iris Flower Classification 🌸
+
+## Overview
+This project predicts iris flower species using Machine Learning.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Result
+Achieved ~95% accuracy.
+
+## Conclusion
+Machine learning can classify flower species effectively.
